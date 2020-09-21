@@ -1,0 +1,91 @@
+/* PROJECTS SECTION */
+
+.projects-section {
+  padding: 3rem 1rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.projects-wrapper {
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  row-gap: 3rem;
+}
+
+/* PROJECT CARD */
+
+.projectCard {
+  width: 250px;
+  max-width: 325px;
+}
+
+/* PROJECT CARD IMAGE */
+
+.projectCard__imageWrapper {
+  overflow: hidden;
+}
+
+.projectCard .MuiCardMedia-img {
+  transition: all 0.4s ease-in;
+  width: 100%;
+}
+
+.projectCard:hover .MuiCardMedia-img {
+  transform: scale(1.05);
+}
+
+/* PROJECT CARD TYPOGRAFY */
+
+.projectCard .MuiTypography-h5 {
+  font-weight: 600;
+}
+
+.projectCard .MuiTypography-body2 {
+  margin-bottom: 15px;
+}
+
+/* PROJECT CARD CHIPS */
+
+.projectCard .MuiChip-root {
+  margin: 5px 5px 0 0;
+}
+
+/* PROJECT CARD CONTENT RESPONSIVE */
+
+.projectCard .projectCard__contentResponsive {
+  display: none;
+}
+
+/* PROJECT CARD LINK */
+
+.projectCard__link > .MuiButton-label {
+  color: #9fa8da;
+  transition: all 0.2s ease-in;
+}
+
+.projectCard__link:hover > .MuiButton-label {
+  color: #1f34b1;
+}
+
+.projectCard__tool > .MuiChip-label {
+  color: black;
+}
+
+/* RESPONSIVE */
+
+@media only screen and (max-width: 762px) {
+  /* PROJECT CARD CONTENT */
+
+  .projectCard .projectCard__content {
+    display: none;
+  }
+
+  .projectCard .projectCard__contentResponsive {
+    display: block;
+  }
+}

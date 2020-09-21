@@ -1,0 +1,157 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1rem;
+  z-index: 2;
+  animation: header-fade 0.8s ease-in 0s 1 forwards;
+}
+
+.logo-wrapper {
+  border: 2px solid white;
+  position: relative;
+}
+
+.logo-letters {
+  letter-spacing: 0.3rem;
+  height: 100%;
+}
+
+.logo-letters:hover {
+  cursor: pointer;
+}
+
+.logo-letter {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.logo-second-letter {
+  color: var(--mainFocusColor);
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.navbar-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  column-gap: 2.1rem;
+  padding: 0.5rem;
+}
+
+.navbar-item {
+  position: relative;
+  padding: 0.2rem 0;
+  overflow: hidden;
+}
+
+.navbar-item:hover {
+  cursor: pointer;
+}
+
+.navbar-item::before,
+.navbar-item::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  left: 0;
+  background-color: var(--mainFocusColor);
+  transform: scaleX(0);
+  transition: all 0.5s ease-in;
+}
+
+.navbar-item::before {
+  top: 0;
+  transform-origin: right;
+}
+
+.navbar-item::after {
+  bottom: 0;
+  transform-origin: left;
+}
+
+.navbar-item:hover::before,
+.navbar-item:hover::after {
+  transform: scaleX(1);
+}
+
+.navbar-link {
+  text-transform: uppercase;
+  padding: 0.3rem 0.6rem;
+  border-bottom: 1px solid var(--mainBorderColor);
+  transition: all 0.5s ease-in;
+  position: relative;
+}
+
+.navbar-link:hover {
+  border-bottom: 1px solid var(--mainFocusColor);
+  color: var(--mainFocusColor);
+  cursor: pointer;
+}
+
+Link:hover {
+  cursor: pointer;
+}
+
+.bars-icon {
+  font-size: 26px;
+  padding: 0.2rem 0.6rem;
+  display: none;
+}
+
+.bars-icon:hover {
+  cursor: pointer;
+}
+
+/* NAVBAR MENU ICON */
+.navbar .MuiSvgIcon-root {
+  display: none !important;
+}
+
+.navbar .MuiSvgIcon-root:hover {
+  cursor: pointer;
+}
+
+/* NAVBAR LATERAL MENU */
+
+.MuiDrawer-paperAnchorLeft {
+  background-color: black !important;
+}
+
+.MuiDrawer-paperAnchorLeft .MuiListItem-button {
+  margin-top: 20px;
+}
+
+/***** ANIMATIONS *****/
+
+@keyframes header-fade {
+  from {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/***** RESPONSIVE *****/
+
+@media screen and (max-width: 550px) {
+  .navbar-nav {
+    display: none;
+  }
+
+  .navbar .MuiSvgIcon-root {
+    display: inline-block !important;
+  }
+}

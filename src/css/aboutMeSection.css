@@ -1,0 +1,51 @@
+.about-me-section {
+  padding: 1rem 3rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-me-section-body {
+  position: absolute;
+  background-color: rgba(22, 22, 22, 0.5);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* ABOUT ME TITTLE */
+
+.about-me-tittle {
+  text-align: center;
+}
+
+/* ABOUT ME TEXT */
+
+.aboutMe__text {
+  position: relative;
+  font-family: "Karla", sans-serif;
+  max-width: 900px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
+  background-color: var(--mainBackgroundColor);
+  padding: 1rem;
+  box-shadow: 0 0 1px 0 white;
+}
+
+.aboutMe__text > p {
+  line-height: 1.5;
+}
+
+/* LINK TO CURRICULUM */
+
+.curriculo__link {
+  color: var(--mainFocusColor);
+}

@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.63951676.chunk.css",
+    "main.js": "/portfolio/static/js/main.4c8da08f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4c8da08f.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
+    "static/js/2.b4e30caf.chunk.js": "/portfolio/static/js/2.b4e30caf.chunk.js",
+    "static/js/2.b4e30caf.chunk.js.map": "/portfolio/static/js/2.b4e30caf.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.e11ca99fecfee2816145a08abb49a507.js": "/portfolio/precache-manifest.e11ca99fecfee2816145a08abb49a507.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.63951676.chunk.css.map": "/portfolio/static/css/main.63951676.chunk.css.map",
+    "static/js/2.b4e30caf.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b4e30caf.chunk.js.LICENSE.txt",
+    "static/media/backgroundAboutMe.jpg": "/portfolio/static/media/backgroundAboutMe.e1dbd44c.jpg",
+    "static/media/backgroundMain.jpg": "/portfolio/static/media/backgroundMain.448ccda7.jpg",
+    "static/media/expense_tracker_logo.jpg": "/portfolio/static/media/expense_tracker_logo.c4a06941.jpg",
+    "static/media/firebase_logo.jpg": "/portfolio/static/media/firebase_logo.e0dff628.jpg",
+    "static/media/google_books_logo.jpg": "/portfolio/static/media/google_books_logo.33771a3a.jpg",
+    "static/media/hangman_logo.jpg": "/portfolio/static/media/hangman_logo.8d22bc8d.jpg",
+    "static/media/javascript_logo.jpg": "/portfolio/static/media/javascript_logo.ea4ed400.jpg",
+    "static/media/material_ui_logo.png": "/portfolio/static/media/material_ui_logo.d2b1e190.png",
+    "static/media/netflix_logo.jpg": "/portfolio/static/media/netflix_logo.8e4d88c4.jpg",
+    "static/media/node_logo.PNG": "/portfolio/static/media/node_logo.6dcf6999.PNG",
+    "static/media/react_logo.jpg": "/portfolio/static/media/react_logo.8f7ed620.jpg",
+    "static/media/redux_logo.jpg": "/portfolio/static/media/redux_logo.4b860080.jpg",
+    "static/media/whatsapp_logo.jpg": "/portfolio/static/media/whatsapp_logo.e494939b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.b4e30caf.chunk.js",
+    "static/css/main.63951676.chunk.css",
+    "static/js/main.4c8da08f.chunk.js"
+  ]
+}

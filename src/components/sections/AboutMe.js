@@ -15,7 +15,9 @@ import BackgroundImage from "../../images/backgroundAboutMe.jpg";
 
 function About() {
   useEffect(() => {
-    Aos.init();
+    Aos.init({
+      once: true,
+    });
   }, []);
 
   return (
@@ -25,7 +27,12 @@ function About() {
       <p className="section-tittle about-me-tittle" data-aos="fade-left">
         Sobre Mim
       </p>
-      <div className="aboutMe__text" data-aos="fade-right" data-aos-delay="200">
+      <motion.div
+        className="aboutMe__text"
+        data-aos="fade-right"
+        data-aos-delay="200"
+        whileHover={{ scale: 1.01 }}
+      >
         <p>
           Sou licenciado em Tecnologias de Informação, o que me permitiu
           adquirir competências de implementação e gestão de tecnologias de
@@ -61,7 +68,7 @@ function About() {
             currículo
           </a>
         </p>
-      </div>
+      </motion.div>
     </section>
   );
 }

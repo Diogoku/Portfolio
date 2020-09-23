@@ -20,7 +20,7 @@
 /* PROJECT CARD */
 
 .projectCard {
-  width: 250px;
+  width: 320px;
   max-width: 325px;
 }
 
@@ -78,7 +78,7 @@
 
 /* RESPONSIVE */
 
-@media only screen and (max-width: 762px) {
+@media only screen and (max-width: 743px) {
   /* PROJECT CARD CONTENT */
 
   .projectCard .projectCard__content {

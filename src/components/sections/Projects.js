@@ -17,6 +17,7 @@ import FusoesImage from "../../images/fusoes_academia.jpg";
 import ExpenseTrackerImage from "../../images/expense_tracker_logo.jpg";
 import WhatsAppGroupImage from "../../images/whatsapp_logo.jpg";
 import NetflixImage from "../../images/netflix_logo.jpg";
+import ArawazaImage from "../../images/arawaza_logo.png";
 
 // IMAGES LOGOS
 import ReactLogo from "../../images/react_logo.jpg";
@@ -31,6 +32,7 @@ import NodeJSLogo from "../../images/node_logo.PNG";
 import MongoDBLogo from "../../images/mongodb_logo.png";
 import PusherLogo from "../../images/pusher_logo.png";
 import MaterialUILogo from "../../images/material_ui_logo.png";
+import HerokuLogo from "../../images/heroku_logo.png";
 
 function Projects() {
   useEffect(() => {
@@ -120,6 +122,19 @@ function Projects() {
             { img: MaterialUILogo, name: "Material-ui" },
           ]}
         />
+        <ProjectCard
+          title={"Arawaza Clone"}
+          link={"https://arawaza-clone-frontend.herokuapp.com/"}
+          image={ArawazaImage}
+          description={"Arawaza martial arts store clone"}
+          tools={[
+            { img: ReactLogo, name: "React" },
+            { img: NodeJSLogo, name: "Node" },
+            { img: MongoDBLogo, name: "Mongo DB" },
+            { img: HerokuLogo, name: "Heroku" },
+            { img: MaterialUILogo, name: "Material-ui" },
+          ]}
+        ></ProjectCard>
       </div>
     </section>
   );

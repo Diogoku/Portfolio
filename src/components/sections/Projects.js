@@ -13,7 +13,6 @@ import "../../css/projectsSection.css";
 // IMAGES PROJECTS
 import GoogleBooksAPIImage from "../../images/google_books_logo.jpg";
 import HangmanImage from "../../images/hangman_logo.jpg";
-import FusoesImage from "../../images/fusoes_academia.jpg";
 import ExpenseTrackerImage from "../../images/expense_tracker_logo.jpg";
 import WhatsAppGroupImage from "../../images/whatsapp_logo.jpg";
 import NetflixImage from "../../images/netflix_logo.jpg";
@@ -24,9 +23,6 @@ import ReactLogo from "../../images/react_logo.jpg";
 import ReduxLogo from "../../images/redux_logo.jpg";
 import WebpackLogo from "../../images/webpack_logo.png";
 import BabelLogo from "../../images/babel_logo.png";
-import HTML5Logo from "../../images/html5_logo.png";
-import CSSLogo from "../../images/css_logo.png";
-import JavaScriptLogo from "../../images/javascript_logo.jpg";
 import FirebaseLogo from "../../images/firebase_logo.jpg";
 import NodeJSLogo from "../../images/node_logo.PNG";
 import MongoDBLogo from "../../images/mongodb_logo.png";
@@ -71,17 +67,6 @@ function Projects() {
             { img: ReduxLogo, name: "Redux" },
             { img: WebpackLogo, name: "Webpack" },
             { img: BabelLogo, name: "Babel" },
-          ]}
-        />
-        <ProjectCard
-          title={"Fusoes Academia site"}
-          link={"https://diogoku.github.io/fusoesAcademia/"}
-          image={FusoesImage}
-          description={"Fusões Academia, Karate Site"}
-          tools={[
-            { img: HTML5Logo, name: "HTML5" },
-            { img: CSSLogo, name: "CSS" },
-            { img: JavaScriptLogo, name: "JavaScript" },
           ]}
         />
         <ProjectCard

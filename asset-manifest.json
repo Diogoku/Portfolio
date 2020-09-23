@@ -1,26 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.25b0271c.chunk.css",
-    "main.js": "/portfolio/static/js/main.ef9a1f15.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ef9a1f15.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.03fe8a94.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.03fe8a94.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
-    "static/js/2.3bacda0d.chunk.js": "/portfolio/static/js/2.3bacda0d.chunk.js",
-    "static/js/2.3bacda0d.chunk.js.map": "/portfolio/static/js/2.3bacda0d.chunk.js.map",
+    "static/js/2.eaef0b3f.chunk.js": "/portfolio/static/js/2.eaef0b3f.chunk.js",
+    "static/js/2.eaef0b3f.chunk.js.map": "/portfolio/static/js/2.eaef0b3f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.b598941d11c88ee455e84a251f7ee102.js": "/portfolio/precache-manifest.b598941d11c88ee455e84a251f7ee102.js",
+    "precache-manifest.c5db51a26e04c7b0a12555f142851dea.js": "/portfolio/precache-manifest.c5db51a26e04c7b0a12555f142851dea.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.25b0271c.chunk.css.map": "/portfolio/static/css/main.25b0271c.chunk.css.map",
-    "static/js/2.3bacda0d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3bacda0d.chunk.js.LICENSE.txt",
+    "static/js/2.eaef0b3f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.eaef0b3f.chunk.js.LICENSE.txt",
     "static/media/backgroundAboutMe.jpg": "/portfolio/static/media/backgroundAboutMe.e1dbd44c.jpg",
     "static/media/backgroundMain.jpg": "/portfolio/static/media/backgroundMain.448ccda7.jpg",
     "static/media/expense_tracker_logo.jpg": "/portfolio/static/media/expense_tracker_logo.c4a06941.jpg",
     "static/media/firebase_logo.jpg": "/portfolio/static/media/firebase_logo.e0dff628.jpg",
     "static/media/google_books_logo.jpg": "/portfolio/static/media/google_books_logo.33771a3a.jpg",
     "static/media/hangman_logo.jpg": "/portfolio/static/media/hangman_logo.8d22bc8d.jpg",
-    "static/media/javascript_logo.jpg": "/portfolio/static/media/javascript_logo.ea4ed400.jpg",
     "static/media/material_ui_logo.png": "/portfolio/static/media/material_ui_logo.d2b1e190.png",
     "static/media/netflix_logo.jpg": "/portfolio/static/media/netflix_logo.8e4d88c4.jpg",
     "static/media/node_logo.PNG": "/portfolio/static/media/node_logo.6dcf6999.PNG",
@@ -31,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.3bacda0d.chunk.js",
+    "static/js/2.eaef0b3f.chunk.js",
     "static/css/main.25b0271c.chunk.css",
-    "static/js/main.ef9a1f15.chunk.js"
+    "static/js/main.03fe8a94.chunk.js"
   ]
 }

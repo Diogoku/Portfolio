@@ -17,6 +17,7 @@ import ExpenseTrackerImage from "../../images/expense_tracker_logo.jpg";
 import WhatsAppGroupImage from "../../images/whatsapp_logo.jpg";
 import NetflixImage from "../../images/netflix_logo.jpg";
 import ArawazaImage from "../../images/arawaza_logo.png";
+import MessengerImage from "../../images/messenger_logo.png";
 
 // IMAGES LOGOS
 import ReactLogo from "../../images/react_logo.jpg";
@@ -119,7 +120,22 @@ function Projects() {
             { img: HerokuLogo, name: "Heroku" },
             { img: MaterialUILogo, name: "Material-ui" },
           ]}
-        ></ProjectCard>
+        />
+        <ProjectCard
+          title={"Messenger Clone - MERN"}
+          link={"https://facebook-messenger-clone-9000c.web.app/"}
+          image={MessengerImage}
+          description={"Messenger dashboard"}
+          tools={[
+            { img: ReactLogo, name: "React" },
+            { img: MaterialUILogo, name: "Material-ui" },
+            { img: PusherLogo, name: "Pusher" },
+            { img: NodeJSLogo, name: "Node" },
+            { img: MongoDBLogo, name: "Mongo DB" },
+            { img: HerokuLogo, name: "Heroku" },
+            { img: FirebaseLogo, name: "Firebase" },
+          ]}
+        />
       </div>
     </section>
   );

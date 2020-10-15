@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.25b0271c.chunk.css",
-    "main.js": "/portfolio/static/js/main.6393904b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6393904b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.303a665b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.303a665b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
-    "static/js/2.58837138.chunk.js": "/portfolio/static/js/2.58837138.chunk.js",
-    "static/js/2.58837138.chunk.js.map": "/portfolio/static/js/2.58837138.chunk.js.map",
+    "static/js/2.f448fb39.chunk.js": "/portfolio/static/js/2.f448fb39.chunk.js",
+    "static/js/2.f448fb39.chunk.js.map": "/portfolio/static/js/2.f448fb39.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.5a5943c919046fbe90f295bb81175f20.js": "/portfolio/precache-manifest.5a5943c919046fbe90f295bb81175f20.js",
+    "precache-manifest.356e6d1d6bc50f320eb3f5216fff49f8.js": "/portfolio/precache-manifest.356e6d1d6bc50f320eb3f5216fff49f8.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.25b0271c.chunk.css.map": "/portfolio/static/css/main.25b0271c.chunk.css.map",
-    "static/js/2.58837138.chunk.js.LICENSE.txt": "/portfolio/static/js/2.58837138.chunk.js.LICENSE.txt",
+    "static/js/2.f448fb39.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f448fb39.chunk.js.LICENSE.txt",
     "static/media/backgroundAboutMe.jpg": "/portfolio/static/media/backgroundAboutMe.e1dbd44c.jpg",
     "static/media/backgroundMain.jpg": "/portfolio/static/media/backgroundMain.448ccda7.jpg",
+    "static/media/covid-19_logo.jpg": "/portfolio/static/media/covid-19_logo.379a539e.jpg",
     "static/media/expense_tracker_logo.jpg": "/portfolio/static/media/expense_tracker_logo.c4a06941.jpg",
     "static/media/firebase_logo.jpg": "/portfolio/static/media/firebase_logo.e0dff628.jpg",
     "static/media/google_books_logo.jpg": "/portfolio/static/media/google_books_logo.33771a3a.jpg",
@@ -25,13 +26,14 @@
     "static/media/node_logo.PNG": "/portfolio/static/media/node_logo.6dcf6999.PNG",
     "static/media/react_logo.jpg": "/portfolio/static/media/react_logo.8f7ed620.jpg",
     "static/media/redux_logo.jpg": "/portfolio/static/media/redux_logo.4b860080.jpg",
+    "static/media/travel_tracker_logo.jpg": "/portfolio/static/media/travel_tracker_logo.d78505cb.jpg",
     "static/media/whatsapp_logo.jpg": "/portfolio/static/media/whatsapp_logo.e494939b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.58837138.chunk.js",
+    "static/js/2.f448fb39.chunk.js",
     "static/css/main.25b0271c.chunk.css",
-    "static/js/main.6393904b.chunk.js"
+    "static/js/main.303a665b.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da361250acda951a9e4b17dd3214e8a8",
+    "revision": "dab6526295d86cfb5a43d3df842b233a",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "5e6cc649e5f36b2bcb3e",
+    "revision": "86fb9ac531983c2a11e9",
     "url": "/portfolio/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "26cd34dae966f7331729",
+    "revision": "5dd9e56cd946a6cb4312",
     "url": "/portfolio/static/css/main.25b0271c.chunk.css"
   },
   {
-    "revision": "5e6cc649e5f36b2bcb3e",
-    "url": "/portfolio/static/js/2.58837138.chunk.js"
+    "revision": "86fb9ac531983c2a11e9",
+    "url": "/portfolio/static/js/2.f448fb39.chunk.js"
   },
   {
     "revision": "1937a0fc6634269e5f47f8181e27fdc7",
-    "url": "/portfolio/static/js/2.58837138.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.f448fb39.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26cd34dae966f7331729",
-    "url": "/portfolio/static/js/main.6393904b.chunk.js"
+    "revision": "5dd9e56cd946a6cb4312",
+    "url": "/portfolio/static/js/main.303a665b.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "448ccda7e4e25ed738f8ea6f0a253cfb",
     "url": "/portfolio/static/media/backgroundMain.448ccda7.jpg"
+  },
+  {
+    "revision": "379a539e8c333a4137b51f44e75cea4c",
+    "url": "/portfolio/static/media/covid-19_logo.379a539e.jpg"
   },
   {
     "revision": "c4a06941d8c3370686e7b64c7072ca46",
@@ -70,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4b860080690027111c201d4f6e681ca1",
     "url": "/portfolio/static/media/redux_logo.4b860080.jpg"
+  },
+  {
+    "revision": "d78505cb505c5f662707fb0654882272",
+    "url": "/portfolio/static/media/travel_tracker_logo.d78505cb.jpg"
   },
   {
     "revision": "e494939b96f72c6b7b0701b0f1aafd68",

@@ -18,6 +18,8 @@ import WhatsAppGroupImage from "../../images/whatsapp_logo.jpg";
 import NetflixImage from "../../images/netflix_logo.jpg";
 import ArawazaImage from "../../images/arawaza_logo.png";
 import MessengerImage from "../../images/messenger_logo.png";
+import Covid19Image from "../../images/covid-19_logo.jpg";
+import TravelTrackerImage from "../../images/travel_tracker_logo.jpg";
 
 // IMAGES LOGOS
 import ReactLogo from "../../images/react_logo.jpg";
@@ -134,6 +136,35 @@ function Projects() {
             { img: MongoDBLogo, name: "Mongo DB" },
             { img: HerokuLogo, name: "Heroku" },
             { img: FirebaseLogo, name: "Firebase" },
+          ]}
+        />
+        <ProjectCard
+          title={"Covid-19 Tracker"}
+          link={"https://diogoku.github.io/travel-tracker-frontend/#/"}
+          image={Covid19Image}
+          description={
+            "Tracks covid-19 active/recover/deaths cases worldwide or country level"
+          }
+          tools={[
+            { img: ReactLogo, name: "React" },
+            { img: ReduxLogo, name: "Redux" },
+            { img: MaterialUILogo, name: "Material-ui" },
+          ]}
+        />
+        <ProjectCard
+          title={"Travel Tracker - MERN"}
+          link={"https://diogoku.github.io/travel-tracker-frontend/#/"}
+          image={TravelTrackerImage}
+          description={
+            "Register the countries the user visited and gives information about the percentage of the world the user have visited"
+          }
+          tools={[
+            { img: ReactLogo, name: "React" },
+            { img: ReduxLogo, name: "Redux" },
+            { img: MaterialUILogo, name: "Material-ui" },
+            { img: NodeJSLogo, name: "Node" },
+            { img: MongoDBLogo, name: "Mongo DB" },
+            { img: HerokuLogo, name: "Heroku" },
           ]}
         />
       </div>

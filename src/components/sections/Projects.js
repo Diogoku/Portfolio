@@ -140,7 +140,7 @@ function Projects() {
         />
         <ProjectCard
           title={"Covid-19 Tracker"}
-          link={"https://diogoku.github.io/travel-tracker-frontend/#/"}
+          link={"https://diogoku.github.io/covid-19-tracker/"}
           image={Covid19Image}
           description={
             "Tracks covid-19 active/recover/deaths cases worldwide or country level"

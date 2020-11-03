@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.25b0271c.chunk.css",
-    "main.js": "/portfolio/static/js/main.10f70778.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.10f70778.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d4f5ab84.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d4f5ab84.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
-    "static/js/2.f448fb39.chunk.js": "/portfolio/static/js/2.f448fb39.chunk.js",
-    "static/js/2.f448fb39.chunk.js.map": "/portfolio/static/js/2.f448fb39.chunk.js.map",
+    "static/js/2.17b74a23.chunk.js": "/portfolio/static/js/2.17b74a23.chunk.js",
+    "static/js/2.17b74a23.chunk.js.map": "/portfolio/static/js/2.17b74a23.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6e7a51faac085530010d9d3e79111f2f.js": "/portfolio/precache-manifest.6e7a51faac085530010d9d3e79111f2f.js",
+    "precache-manifest.5369a1e00ba46cb314ae90dba6b5b890.js": "/portfolio/precache-manifest.5369a1e00ba46cb314ae90dba6b5b890.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.25b0271c.chunk.css.map": "/portfolio/static/css/main.25b0271c.chunk.css.map",
-    "static/js/2.f448fb39.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f448fb39.chunk.js.LICENSE.txt",
+    "static/js/2.17b74a23.chunk.js.LICENSE.txt": "/portfolio/static/js/2.17b74a23.chunk.js.LICENSE.txt",
     "static/media/backgroundAboutMe.jpg": "/portfolio/static/media/backgroundAboutMe.e1dbd44c.jpg",
     "static/media/backgroundMain.jpg": "/portfolio/static/media/backgroundMain.448ccda7.jpg",
+    "static/media/beats_logo.png": "/portfolio/static/media/beats_logo.dd16d160.png",
     "static/media/covid-19_logo.jpg": "/portfolio/static/media/covid-19_logo.379a539e.jpg",
     "static/media/expense_tracker_logo.jpg": "/portfolio/static/media/expense_tracker_logo.c4a06941.jpg",
+    "static/media/express_logo.jpg": "/portfolio/static/media/express_logo.44979e3d.jpg",
     "static/media/firebase_logo.jpg": "/portfolio/static/media/firebase_logo.e0dff628.jpg",
     "static/media/google_books_logo.jpg": "/portfolio/static/media/google_books_logo.33771a3a.jpg",
     "static/media/hangman_logo.jpg": "/portfolio/static/media/hangman_logo.8d22bc8d.jpg",
@@ -32,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.f448fb39.chunk.js",
+    "static/js/2.17b74a23.chunk.js",
     "static/css/main.25b0271c.chunk.css",
-    "static/js/main.10f70778.chunk.js"
+    "static/js/main.d4f5ab84.chunk.js"
   ]
 }

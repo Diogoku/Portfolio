@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3ab7199b9337ef013c988390ac3d8d1",
+    "revision": "59168f5ea9b62b9d2ed8474ae0b21322",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "86fb9ac531983c2a11e9",
+    "revision": "966a6280de71b00aa3da",
     "url": "/portfolio/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "7519d9d537a8bfe269bc",
+    "revision": "49c7432fcaab7728e6ed",
     "url": "/portfolio/static/css/main.25b0271c.chunk.css"
   },
   {
-    "revision": "86fb9ac531983c2a11e9",
-    "url": "/portfolio/static/js/2.f448fb39.chunk.js"
+    "revision": "966a6280de71b00aa3da",
+    "url": "/portfolio/static/js/2.17b74a23.chunk.js"
   },
   {
     "revision": "1937a0fc6634269e5f47f8181e27fdc7",
-    "url": "/portfolio/static/js/2.f448fb39.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.17b74a23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7519d9d537a8bfe269bc",
-    "url": "/portfolio/static/js/main.10f70778.chunk.js"
+    "revision": "49c7432fcaab7728e6ed",
+    "url": "/portfolio/static/js/main.d4f5ab84.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -36,12 +36,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/backgroundMain.448ccda7.jpg"
   },
   {
+    "revision": "dd16d1606e9653a3223f8159c7b272bc",
+    "url": "/portfolio/static/media/beats_logo.dd16d160.png"
+  },
+  {
     "revision": "379a539e8c333a4137b51f44e75cea4c",
     "url": "/portfolio/static/media/covid-19_logo.379a539e.jpg"
   },
   {
     "revision": "c4a06941d8c3370686e7b64c7072ca46",
     "url": "/portfolio/static/media/expense_tracker_logo.c4a06941.jpg"
+  },
+  {
+    "revision": "44979e3d4d197e6dffbe04022e1e7c4c",
+    "url": "/portfolio/static/media/express_logo.44979e3d.jpg"
   },
   {
     "revision": "e0dff62856ac6ef9f5151c5d32b5a920",

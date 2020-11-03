@@ -20,6 +20,7 @@ import ArawazaImage from "../../images/arawaza_logo.png";
 import MessengerImage from "../../images/messenger_logo.png";
 import Covid19Image from "../../images/covid-19_logo.jpg";
 import TravelTrackerImage from "../../images/travel_tracker_logo.jpg";
+import BeatsImage from "../../images/beats_logo.png";
 
 // IMAGES LOGOS
 import ReactLogo from "../../images/react_logo.jpg";
@@ -32,6 +33,7 @@ import MongoDBLogo from "../../images/mongodb_logo.png";
 import PusherLogo from "../../images/pusher_logo.png";
 import MaterialUILogo from "../../images/material_ui_logo.png";
 import HerokuLogo from "../../images/heroku_logo.png";
+import ExpressLogo from "../../images/express_logo.jpg";
 
 function Projects() {
   useEffect(() => {
@@ -94,6 +96,7 @@ function Projects() {
             { img: ReduxLogo, name: "Redux" },
             { img: FirebaseLogo, name: "Firebase" },
             { img: NodeJSLogo, name: "Node" },
+            { img: ExpressLogo, name: "Express" },
             { img: MongoDBLogo, name: "Mongo DB" },
             { img: PusherLogo, name: "Pusher" },
             { img: MaterialUILogo, name: "Material-ui" },
@@ -118,6 +121,7 @@ function Projects() {
           tools={[
             { img: ReactLogo, name: "React" },
             { img: NodeJSLogo, name: "Node" },
+            { img: ExpressLogo, name: "Express" },
             { img: MongoDBLogo, name: "Mongo DB" },
             { img: HerokuLogo, name: "Heroku" },
             { img: MaterialUILogo, name: "Material-ui" },
@@ -133,6 +137,7 @@ function Projects() {
             { img: MaterialUILogo, name: "Material-ui" },
             { img: PusherLogo, name: "Pusher" },
             { img: NodeJSLogo, name: "Node" },
+            { img: ExpressLogo, name: "Express" },
             { img: MongoDBLogo, name: "Mongo DB" },
             { img: HerokuLogo, name: "Heroku" },
             { img: FirebaseLogo, name: "Firebase" },
@@ -163,6 +168,22 @@ function Projects() {
             { img: ReduxLogo, name: "Redux" },
             { img: MaterialUILogo, name: "Material-ui" },
             { img: NodeJSLogo, name: "Node" },
+            { img: ExpressLogo, name: "Express" },
+            { img: MongoDBLogo, name: "Mongo DB" },
+            { img: HerokuLogo, name: "Heroku" },
+          ]}
+        />
+        <ProjectCard
+          title={"Beats e-commerce - MERN"}
+          link={"https://diogoku.github.io/beats-frontend-store/#/"}
+          image={BeatsImage}
+          description={"E-commerce beats store, to buy beats by Dr. Dre"}
+          tools={[
+            { img: ReactLogo, name: "React" },
+            { img: ReduxLogo, name: "Redux" },
+            { img: MaterialUILogo, name: "Material-ui" },
+            { img: NodeJSLogo, name: "Node" },
+            { img: ExpressLogo, name: "Express" },
             { img: MongoDBLogo, name: "Mongo DB" },
             { img: HerokuLogo, name: "Heroku" },
           ]}
